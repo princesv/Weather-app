@@ -1,0 +1,58 @@
+# Dependency directories
+node_modules/
+.pnpm-debug.log*
+.yarn/
+.yarncache/
+.npm/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Build outputs
+.next/
+out/
+build/
+
+# Static cache files
+.cache/
+
+# Temporary files and folders
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Git files
+*.orig
+
+# Debugging
+debug/
+
+# Test coverage
+coverage/
+
+# Miscellaneous
+*.local
+*.lock
+*.pid
+*.seed
+*.tgz
